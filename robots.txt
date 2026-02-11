@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap link (Jab aap sitemap banayenge tab kaam aayega)
+Sitemap: https://image-reducer-pi.vercel.app/sitemap.xml
